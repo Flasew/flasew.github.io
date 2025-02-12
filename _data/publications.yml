@@ -3,7 +3,7 @@ main:
   - title: Efficient Direct-Connect Topologies for Collective Communications
     authors: Liangyu Zhao, Siddharth Pal, Tapan Chugh, <strong>Weiyang Wang</strong>, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
     conference_short: NSDI 2025
-    conference: 22nd USENIX Symposium on Networked Systems Design and Implementation 2025
+    conference: 22nd USENIX Symposium on Networked Systems Design and Implementation
     pdf: https://arxiv.org/pdf/2202.03356
     image: ./assets/img/nsdi25efficient.png
 
