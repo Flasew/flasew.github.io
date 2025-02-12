@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I'm a fifth-year Ph.D. student working at MIT CSAIL with Professor Manya Ghobadi. My work focuses on computer networking and machine learning systems to push the boundaries of scalability and efficiency. I enjoy designing high-performance networking solutions and exploring novel network architectures for GPU clusters. When I'm not in the lab, you'll probably find me sipping coffee or doing some heavy lifting in the gym. 
+I'm a fifth-year Ph.D. student working at MIT CSAIL with Professor Manya Ghobadi. My work focuses on computer networking and machine learning systems to push the boundaries of scalability and efficiency. I enjoy designing high-performance networking solutions and exploring novel network architectures for GPU clusters. You'll probably find me sipping coffee or doing some heavy lifting in the gym when I'm not in the lab.
 
 ## Research Interests
 
-- **Computer Network:** reconfigurable network, datacenter network, protocal design
+- **Computer Network:** Reconfigurable Network, Datacenter Network, Protocol Design
 - **Systems for Machine Learning:** Collective Communication, Performance Modeling, Checkpointing
 
 <!-- ## News
