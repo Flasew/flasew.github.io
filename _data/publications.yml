@@ -1,22 +1,43 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Efficient Direct-Connect Topologies for Collective Communications
+    authors: Liangyu Zhao, Siddharth Pal, Tapan Chugh, <strong>Weiyang Wang</strong>, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
+    conference_short: NSDI 2025
+    conference: 22nd USENIX Symposium on Networked Systems Design and Implementation 2025
+    pdf: https://arxiv.org/pdf/2202.03356
+    image: ./assets/img/nsdi25efficient.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Rail-only: A Low-Cost High-Performance Network for Training LLMs with Trillion Parameters"
+    authors: <strong>Weiyang Wang</strong>, Manya Ghobadi, Kayvon Shakeri, Ying Zhang, Naader Hasani
+    conference_short: HOTI 2024
+    conference: IEEE Symposium on High-Performance Interconnects 
+    pdf: https://people.csail.mit.edu/ghobadi/papers/rail_llm_hotnets_2023.pdf
+    image: ./assets/img/heatmap_gpt_opt_new.png
+
+  - title: "TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs"
+    authors: <strong>Weiyang Wang</strong>, Moein Khazraee, Zhizhen Zhong, Zhijao Jia, Dheevatsa Mudigere, Ying Zhang, Anthony Kewitsch, Manya Ghobadi
+    conference_short: NSDI 2023
+    conference: 20th USENIX Symposium on Networked Systems Design and Implementation
+    pdf: https://www.usenix.org/system/files/nsdi23-wang-weiyang.pdf
+    image: ./assets/img/topoopt.png
+
+  - title: "Time-division TCP for Reconfigurable Data Center Networks"
+    authors: "Shawn Shuoshuo Chen∗, <strong>Weiyang Wang∗</strong>, Christopher Canel, Srinivasan Seshan, Alex C. Snoeren, Peter Steenkiste (*: equal contribution)"
+    conference_short: SIGCOMM 2022
+    conference: ACM Special Interest Group on Data Communication (SIGCOMM) 2022
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3544216.3544254
+    image: ./assets/img/tdtcp.png
+
+  - title: "IOI: In-network Optical Inference"
+    authors: "Zhizhen Zhong, <strong>Weiyang Wang</strong>, Manya Ghobadi, Alexander Sludds, Ryan Hamerly, Liane Bernstein, Dirk Englund"
+    conference_short: OptSys 2021
+    conference: ACM SIGCOMM 2021 Workshop on Optical Systems 
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3473938.3474508
+    image: ./assets/img/ioi.png
+
+  - title: "Adapting TCP for Reconfigurable Datacenter Networks"
+    authors: "Matthew K Mukerjee, Christopher Canel, <strong>Weiyang Wang</strong>, Daehyeok Kim, Srinivasan Seshan, Alex C Snoeren"
+    conference_short: NSDI 2020
+    conference: 17th USENIX Symposium on Networked Systems Design and Implementation 
+    pdf: https://www.usenix.org/system/files/nsdi20-paper-mukerjee.pdf
+    image: ./assets/img/retcp.png
