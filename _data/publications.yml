@@ -22,7 +22,7 @@ main:
     image: ./assets/img/topoopt.png
 
   - title: "Time-division TCP for Reconfigurable Data Center Networks"
-    authors: "Shawn Shuoshuo Chen∗, <strong>Weiyang Wang∗</strong>, Christopher Canel, Srinivasan Seshan, Alex C. Snoeren, Peter Steenkiste (*: equal contribution)"
+    authors: "Shawn Shuoshuo Chen*, <strong>Weiyang Wang*</strong>, Christopher Canel, Srinivasan Seshan, Alex C. Snoeren, Peter Steenkiste (*: equal contribution)"
     conference_short: SIGCOMM 2022
     conference: ACM Special Interest Group on Data Communication (SIGCOMM) 2022
     pdf: https://dl.acm.org/doi/pdf/10.1145/3544216.3544254
