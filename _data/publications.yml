@@ -1,10 +1,30 @@
 main:
+  - title: Zero-Overhead Model Checkpointing via \\ Network Gradient Replication
+    authors: Ankit Bhardwaj, <strong>Weiyang Wang</strong>, Jeremy Carin, Manya Ghobadi, Adam Belay
+    conference_short: NSDI 2026
+    conference: 23rd USENIX Symposium on Networked Systems Design and Implementation
+    pdf: ""
+    image: ./assets/img/checkmate.jpg
+
+  - title: KRAMABENCH: ABenchmarkfor AI Systems on Data-to-Insight Pipelines over Data Lakes
+    authors: Eugenie Lai, Gerardo Vitagliano, Ziyu Zhang, Sivaprasad Sudhir, Om Chabra, Anna Zeng, Anton A Zabreyko, Chenning Li, Ferdi Kossmann, Jialin Ding, Jun Chen, Markos Markakis, Matthew Russo, <strong>Weiyang Wang</strong>, Ziniu Wu, Michael J Cafarella, Lei Cao, Samuel Madden, Tim Kraska
+    conference_short: arXiv
+    conference: In Submission 
+    pdf: https://arxiv.org/pdf/2506.06541
+    image: ./assets/img/kramabench.jpg
+
+  - title: Spine-Free Networks for LLM Training
+    authors: <strong>Weiyang Wang</strong>, Manya Ghobadi
+    conference_short: IEEE Micro 2025
+    conference: IEEE Micro
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10884699
+    image: ./assets/img/ieee_micro_25.jpg
 
   - title: Efficient Direct-Connect Topologies for Collective Communications
     authors: Liangyu Zhao, Siddharth Pal, Tapan Chugh, <strong>Weiyang Wang</strong>, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
     conference_short: NSDI 2025
     conference: 22nd USENIX Symposium on Networked Systems Design and Implementation
-    pdf: https://arxiv.org/pdf/2202.03356
+    pdf: https://www.usenix.org/system/files/nsdi25-zhao-liangyu.pdf
     image: ./assets/img/nsdi25efficient.png
 
   - title: "Rail-only: A Low-Cost High-Performance Network for Training LLMs with Trillion Parameters"
