@@ -1,12 +1,12 @@
 main:
-  - title: Zero-Overhead Model Checkpointing via \\ Network Gradient Replication
+  - title: Zero-Overhead Model Checkpointing via Network Gradient Replication
     authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Manya Ghobadi, Adam Belay <small>(*: equal contribution)</small>"
     conference_short: NSDI 2026
     conference: 23rd USENIX Symposium on Networked Systems Design and Implementation
     pdf: ./assets/img/checkmate.jpg
     image: ./assets/img/checkmate.jpg
 
-  - title: KRAMABENCH: A Benchmarkfor AI Systems on Data-to-Insight Pipelines over Data Lakes
+  - title: "KRAMABENCH: A Benchmarkfor AI Systems on Data-to-Insight Pipelines over Data Lakes"
     authors: "Eugenie Lai*, Gerardo Vitagliano*, Ziyu Zhang*, Sivaprasad Sudhir, Om Chabra, Anna Zeng, Anton A Zabreyko, Chenning Li, Ferdi Kossmann, Jialin Ding, Jun Chen, Markos Markakis, Matthew Russo, <strong>Weiyang Wang</strong>, Ziniu Wu, Michael J Cafarella, Lei Cao, Samuel Madden, Tim Kraska <small>(*: equal contribution)</small>"
     conference_short: arXiv
     conference: In Submission 
