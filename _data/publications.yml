@@ -1,9 +1,9 @@
 main:
   - title: "Checkmate: Zero-Overhead Model Checkpointing via Network Gradient Replication"
-    authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Manya Ghobadi, Adam Belay <small>(*: equal contribution)</small>"
+    authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Adam Belay, Manya Ghobadi <small>(*: equal contribution)</small>"
     conference_short: NSDI 2026
     conference: 23rd USENIX Symposium on Networked Systems Design and Implementation
-    pdf: https://arxiv.org/abs/2507.13522
+    pdf: https://arxiv.org/pdf/2507.13522
     image: ./assets/img/checkmate.jpg
 
   - title: "KramaBench: A Benchmark for AI Systems on Data-to-Insight Pipelines over Data Lakes"
