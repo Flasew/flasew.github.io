@@ -1,0 +1,63 @@
+main:
+  - title: "Checkmate: Zero-Overhead Model Checkpointing via Network Gradient Replication"
+    authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Adam Belay, Manya Ghobadi <small>(*: equal contribution)</small>"
+    conference_short: NSDI 2026
+    conference: 23rd USENIX Symposium on Networked Systems Design and Implementation
+    pdf: https://arxiv.org/pdf/2507.13522
+    image: ./assets/img/checkmate.jpg
+
+  - title: "KramaBench: A Benchmark for AI Systems on Data-to-Insight Pipelines over Data Lakes"
+    authors: "Eugenie Lai*, Gerardo Vitagliano*, Ziyu Zhang*, Sivaprasad Sudhir, Om Chabra, Anna Zeng, Anton A Zabreyko, Chenning Li, Ferdi Kossmann, Jialin Ding, Jun Chen, Markos Markakis, Matthew Russo, <strong>Weiyang Wang</strong>, Ziniu Wu, Michael J Cafarella, Lei Cao, Samuel Madden, Tim Kraska <small>(*: equal contribution)</small>"
+    conference_short: In submission
+    conference: In Submission 
+    pdf: https://arxiv.org/pdf/2506.06541
+    image: ./assets/img/kramabench.jpg
+
+  - title: Spine-Free Networks for LLM Training
+    authors: <strong>Weiyang Wang</strong>, Manya Ghobadi
+    conference_short: IEEE Micro 2025
+    conference: IEEE Micro
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10884699
+    image: ./assets/img/ieee_micro_25.jpg
+
+  - title: Efficient Direct-Connect Topologies for Collective Communications
+    authors: Liangyu Zhao, Siddharth Pal, Tapan Chugh, <strong>Weiyang Wang</strong>, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy
+    conference_short: NSDI 2025
+    conference: 22nd USENIX Symposium on Networked Systems Design and Implementation
+    pdf: https://www.usenix.org/system/files/nsdi25-zhao-liangyu.pdf
+    image: ./assets/img/nsdi25efficient.png
+
+  - title: "Rail-only: A Low-Cost High-Performance Network for Training LLMs with Trillion Parameters"
+    authors: <strong>Weiyang Wang</strong>, Manya Ghobadi, Kayvon Shakeri, Ying Zhang, Naader Hasani
+    conference_short: HOTI 2024
+    conference: IEEE Symposium on High-Performance Interconnects 
+    pdf: https://people.csail.mit.edu/ghobadi/papers/rail_llm_hotnets_2023.pdf
+    image: ./assets/img/heatmap_gpt_opt_new.png
+
+  - title: "TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs"
+    authors: <strong>Weiyang Wang</strong>, Moein Khazraee, Zhizhen Zhong, Zhijao Jia, Dheevatsa Mudigere, Ying Zhang, Anthony Kewitsch, Manya Ghobadi
+    conference_short: NSDI 2023
+    conference: 20th USENIX Symposium on Networked Systems Design and Implementation
+    pdf: https://www.usenix.org/system/files/nsdi23-wang-weiyang.pdf
+    image: ./assets/img/topoopt.png
+
+  - title: "Time-division TCP for Reconfigurable Data Center Networks"
+    authors: "Shawn Shuoshuo Chen*, <strong>Weiyang Wang*</strong>, Christopher Canel, Srinivasan Seshan, Alex C. Snoeren, Peter Steenkiste <small>(*: equal contribution)</small>"
+    conference_short: SIGCOMM 2022
+    conference: ACM Special Interest Group on Data Communication (SIGCOMM) 2022
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3544216.3544254
+    image: ./assets/img/tdtcp.png
+
+  - title: "IOI: In-network Optical Inference"
+    authors: "Zhizhen Zhong, <strong>Weiyang Wang</strong>, Manya Ghobadi, Alexander Sludds, Ryan Hamerly, Liane Bernstein, Dirk Englund"
+    conference_short: OptSys 2021
+    conference: ACM SIGCOMM 2021 Workshop on Optical Systems 
+    pdf: https://dl.acm.org/doi/pdf/10.1145/3473938.3474508
+    image: ./assets/img/ioi.png
+
+  - title: "Adapting TCP for Reconfigurable Datacenter Networks"
+    authors: "Matthew K Mukerjee, Christopher Canel, <strong>Weiyang Wang</strong>, Daehyeok Kim, Srinivasan Seshan, Alex C Snoeren"
+    conference_short: NSDI 2020
+    conference: 17th USENIX Symposium on Networked Systems Design and Implementation 
+    pdf: https://www.usenix.org/system/files/nsdi20-paper-mukerjee.pdf
+    image: ./assets/img/retcp.png
