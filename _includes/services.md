@@ -50,9 +50,9 @@
 ## Other Services
 
 - Member, MIT EECS REFS<br>
-    _Served as peer mediator supporting the graduate community and acting as a first point of contact for stress-related issues._
+    _Served as peer mediator supporting the graduate community and acting as a first point of contact for stress-related issues_
 - Web Chair, MIT Sidney-Pacific Student Government<br>
-	_Maintained and developed the administration system for MIT's Sidney-Pacific graduate housing._
+	_Maintained and developed the administration system for MIT's Sidney-Pacific graduate housing_
 - System Administrator, MIT Network and Mobile Systems Research Group<br>
-	_Constructed and managed a 24-node GPU cluster with electrical and optical networking from scratch._
+	_Constructed and managed a 24-node GPU cluster with electrical and optical networking from scratch_
 
