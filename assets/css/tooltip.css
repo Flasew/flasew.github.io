@@ -6,6 +6,7 @@
   text-decoration: underline;
   text-decoration-style: dotted;
   text-decoration-color: #999;
+  white-space: nowrap;
 }
 
 /* Tooltip text */
