@@ -3,22 +3,19 @@ layout: homepage
 ---
 
 ## About Me
+I'm a final-year Ph.D. student at MIT CSAIL's [Network and Mobile Systems (NMS)](https://nms-r1.csail.mit.edu/) research group, working with Professor [Manya Ghobadi](https://people.csail.mit.edu/ghobadi/). Before MIT, I earned my B.S. in computer science (honors), advised by Professor [Alex C. Snoeren](https://cseweb.ucsd.edu/~snoeren/), and my B.S. in physics from UC San Diego. I design adaptive network systems for machine learning workloads, focusing on network architectures, host-adaptation of reconfigurable networks, and programmable datapaths. When I'm not in the lab, I'm usually <span class="tooltip">making coffee<span class="tooltiptext">Favoring natural-process Ethiopian coffee beans and Aeropress.
+Maintaining the Espresso setup on MIT Stata G9 for fun.</span></span>, <span class="tooltip">taking or editing photos<span class="tooltiptext">Nothing beats a Ricoh GR IIIx!</span></span>, or <span class="tooltip">lifting heavy things at the gym<span class="tooltiptext">Current PR:
+Bench press: 225 lbs
+Squat: 310 lbs
+Deadlift: 425 lbs</span></span>.
 
-I'm a final-year Ph.D. student working at MIT CSAIL with Professor Manya Ghobadi. My work focuses on computer networking and machine learning systems to push the boundaries of scalability and efficiency. I enjoy designing high-performance networking solutions and exploring novel network architectures for GPU clusters. You'll probably find me sipping coffee or doing some heavy lifting in the gym when I'm not in the lab.
-
-**I am currently on the faculty job market for positions starting in 2026-2027.**
+**I am currently on the faculty job market for positions starting in 2026-2027.** <br>
+\[[Research Statement](https://frank.csail.mit.edu/assets/files/frank_research_statement.pdf)\] \[[Teaching Statement](https://frank.csail.mit.edu/assets/files/frank_teaching_statement.pdf)\]
 
 ## Research Interests
 
 - **Computer Network:** Reconfigurable Network, Datacenter Network, Protocol Design
-- **Systems for Machine Learning:** Collective Communication, Performance Modeling, Checkpointing
-
-<!-- ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019. -->
+- **Systems for Machine Learning:** Collective Communication, Performance Modeling, Fault Tolerance
 
 {% include_relative _includes/publications.md %}
 
