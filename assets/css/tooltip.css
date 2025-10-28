@@ -49,6 +49,12 @@
   background: transparent;
 }
 
+/* Adjust bridge when tooltip is below text */
+.tooltip .tooltiptext.tooltip-below::before {
+  top: auto;
+  bottom: 100%;
+}
+
 /* Style links inside tooltips */
 .tooltip .tooltiptext a {
   color: #66b3ff;
@@ -80,7 +86,7 @@
   }
 }
 
-/* Tooltip arrow */
+/* Tooltip arrow (default: above text) */
 .tooltip .tooltiptext::after {
   content: "";
   position: absolute;
@@ -90,6 +96,13 @@
   border-width: 5px;
   border-style: solid;
   border-color: #333 transparent transparent transparent;
+}
+
+/* Tooltip arrow when flipped below text */
+.tooltip .tooltiptext.tooltip-below::after {
+  top: auto;
+  bottom: 100%;
+  border-color: transparent transparent #333 transparent;
 }
 
 /* Show the tooltip on hover of trigger text OR tooltip itself */
@@ -109,6 +122,10 @@
   .tooltip .tooltiptext::after {
     border-color: #444 transparent transparent transparent;
   }
+  
+  .tooltip .tooltiptext.tooltip-below::after {
+    border-color: transparent transparent #444 transparent;
+  }
 }
 
 /* Light mode explicit */
@@ -120,5 +137,9 @@
   
   .tooltip .tooltiptext::after {
     border-color: #2a2a2a transparent transparent transparent;
+  }
+  
+  .tooltip .tooltiptext.tooltip-below::after {
+    border-color: transparent transparent #2a2a2a transparent;
   }
 }
