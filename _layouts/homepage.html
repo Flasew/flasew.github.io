@@ -41,7 +41,10 @@
       <header>
         
         {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
+        <a class="image avatar tooltip">
+          <img src="{{ site.avatar }}" alt="avatar" />
+          <span class="tooltiptext">Photo credit: Wenqi Ni</span>
+        </a>
         {% endif %}
 
         <h1>{{ site.title }}</h1>

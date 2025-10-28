@@ -2,11 +2,17 @@
 .tooltip {
   position: relative;
   display: inline;
-  cursor: help;
+  cursor: default;
   text-decoration: underline;
   text-decoration-style: dotted;
   text-decoration-color: #999;
   white-space: nowrap;
+}
+
+/* Remove underline for image tooltips */
+.image.avatar.tooltip {
+  text-decoration: none;
+  cursor: default;
 }
 
 /* Tooltip text */
@@ -105,6 +111,24 @@
   border-color: transparent transparent #333 transparent;
 }
 
+/* Photo credit tooltip - smaller and transparent with no arrow */
+.image.avatar.tooltip .tooltiptext {
+  width: auto;
+  max-width: 200px;
+  padding: 8px 10px;
+  font-size: 0.8rem;
+  background-color: rgba(51, 51, 51, 0.85);
+  white-space: nowrap;
+}
+
+.image.avatar.tooltip .tooltiptext::after {
+  display: none;
+}
+
+.image.avatar.tooltip .tooltiptext::before {
+  display: none;
+}
+
 /* Show the tooltip on hover of trigger text OR tooltip itself */
 .tooltip:hover .tooltiptext,
 .tooltip .tooltiptext:hover {
@@ -126,6 +150,10 @@
   .tooltip .tooltiptext.tooltip-below::after {
     border-color: transparent transparent #444 transparent;
   }
+  
+  .image.avatar.tooltip .tooltiptext {
+    background-color: rgba(68, 68, 68, 0.85);
+  }
 }
 
 /* Light mode explicit */
@@ -141,5 +169,9 @@
   
   .tooltip .tooltiptext.tooltip-below::after {
     border-color: transparent transparent #2a2a2a transparent;
+  }
+  
+  .image.avatar.tooltip .tooltiptext {
+    background-color: rgba(42, 42, 42, 0.85);
   }
 }
