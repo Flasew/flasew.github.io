@@ -7,7 +7,7 @@ I'm a final-year Ph.D. student at MIT CSAIL's [Network and Mobile Systems (NMS)]
 I'm unofficially maintaining the espresso setup on MIT Stata G9—DO NOT mess up the grind settings!<br>
 My labmate Jeremy Carin maintains an excellent [list of coffee shops](https://jcarin.com/posts/mit-coffee/) in Boston and Cambridge, check it out!</span></span>, <span class="tooltip">taking or editing photos<span class="tooltiptext">Nothing beats a Ricoh GR IIIx!<br>
 I'd like to set up a proper portfolio of photographs in the future.<br>
-Also, remotely related to photography: someone really wants to tell you about [moiré patterns](https://sites.mit.edu/xueqiaowang/more/) :)
+Remotely related to photography: a physicist really wants to tell you about [moiré patterns](https://sites.mit.edu/xueqiaowang/more/) :)
 </span></span>, or <span class="tooltip">lifting heavy things at the gym<span class="tooltiptext">Current PR:
 Bench press: 225 lbs
 Squat: 310 lbs
