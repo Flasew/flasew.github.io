@@ -56,7 +56,7 @@ main:
     image: ./assets/img/ioi.png
 
   - title: "Adapting TCP for Reconfigurable Datacenter Networks"
-    authors: "Matthew K Mukerjee, Christopher Canel, <strong>Weiyang Wang</strong>, Daehyeok Kim, Srinivasan Seshan, Alex C Snoeren"
+    authors: "Matthew K Mukerjee, Christopher Canel, <strong>Weiyang Wang</strong>, Daehyeok Kim, Srinivasan Seshan, Alex C. Snoeren"
     conference_short: NSDI 2020
     conference: "Proceedings of the 17th USENIX Symposium on Networked Systems Design and Implementation (NSDI), Santa Clara, CA, February 2020"
     pdf: https://www.usenix.org/system/files/nsdi20-paper-mukerjee.pdf
