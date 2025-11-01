@@ -31,7 +31,7 @@ main:
     authors: <strong>Weiyang Wang</strong>, Manya Ghobadi, Kayvon Shakeri, Ying Zhang, Naader Hasani
     conference_short: HOTI 2024
     conference: "Proceedings of IEEE Symposium on High-Performance Interconnects (HOTI), Online Conference, August 2024"
-    pdf: https://frank.csail.mit.edu/assets/file/rail_only_hoti_2024.pdf
+    pdf: https://frank.csail.mit.edu/assets/files/rail_only_hoti_2024.pdf
     image: ./assets/img/heatmap_gpt_opt_new.png
 
   - title: "TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs"
