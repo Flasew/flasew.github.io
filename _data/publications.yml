@@ -35,7 +35,7 @@ main:
     image: ./assets/img/heatmap_gpt_opt_new.png
 
   - title: "TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs"
-    authors: <strong>Weiyang Wang</strong>, Moein Khazraee, Zhizhen Zhong, Zhijao Jia, Dheevatsa Mudigere, Ying Zhang, Anthony Kewitsch, Manya Ghobadi
+    authors: <strong>Weiyang Wang</strong>, Moein Khazraee, Zhizhen Zhong, Zhihao Jia, Dheevatsa Mudigere, Ying Zhang, Anthony Kewitsch, Manya Ghobadi
     conference_short: NSDI 2023
     conference: "Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), Boston, MA, April 2023"
     pdf: https://www.usenix.org/system/files/nsdi23-wang-weiyang.pdf
