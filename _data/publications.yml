@@ -6,6 +6,13 @@ main:
     pdf: https://frank.csail.mit.edu
     image: ./assets/img/radical.jpg
 
+  - title: "Checkmate: Zero Performance Overhead Model Checkpointing via Network Gradient Replication"
+    authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Adam Belay, Manya Ghobadi <small>(*: equal contribution)</small>"
+    conference_short: NSDI 2026
+    conference: "Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI), Renton, WA, May 2026"
+    pdf: https://frank.csail.mit.edu/assets/files/checkmate_nsdi.pdf
+    image: ./assets/img/checkmate.jpg
+    
   - title: "KramaBench: A Benchmark for AI Systems on Data-to-Insight Pipelines over Data Lakes"
     authors: "Eugenie Lai*, Gerardo Vitagliano*, Ziyu Zhang*, Sivaprasad Sudhir, Om Chabra, Anna Zeng, Anton A Zabreyko, Chenning Li, Ferdi Kossmann, Jialin Ding, Jun Chen, Markos Markakis, Matthew Russo, <strong>Weiyang Wang</strong>, Ziniu Wu, Michael J Cafarella, Lei Cao, Samuel Madden, Tim Kraska <small>(*: equal contribution)</small>"
     conference_short: In submission
