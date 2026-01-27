@@ -30,7 +30,7 @@
 ## Honors and Awards
 
 - Finalist, Meta PhD Research Fellowship (Computer Networks) — 2022
-- MIT Presidential Fellowship — Sep 2020
+- MIT Presidential Fellowship — 2020
 - UCSD Jacobs School Awards of Excellence (Computer Science and Engineering) — 2020
 - CRA Outstanding Undergraduate Researcher Awards, Runners-up — 2019
 - UCSD CSE Computer Networking Espresso Prize, Winner — 2018
@@ -39,7 +39,10 @@
 
 ## Professional Services
 
-- Reviewer, IEEE/ACM Transactions on Networking (ToN) — 2025
+- Program committee, ACM Symposium on Cloud Computing (SoCC) - 2026
+- Program Committee, ACM Asia-Pacific Workshop on Networking (APNet) — 2026
+- Reviewer, IEEE Network Magazine - 2025
+- Reviewer, IEEE/ACM Transactions on Networking (ToN) — 2025, 2026
 - Reviewer, IEEE Open Journal of the Solid-State Circuits Society (OJ-SSCS) — 2025
 - Reviewer, Elsevier Computer Networks (COMNET) — 2025
 - External Reviewer, IEEE International Conference on Network Protocols (ICNP) — 2025

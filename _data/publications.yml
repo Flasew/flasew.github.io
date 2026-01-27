@@ -1,24 +1,24 @@
 main:
-  - title: "Reconfiguration-Aware Direct-Connect AI Cluster using Spatial-and-Wavelength-Selective Switching"
-    authors: "Brett George, <strong>Weiyang Wang</strong>, Zhenguo Wu, Yuyang Wang, Xiang Meng, Manya Ghobadi, Keren Bergman"
-    conference_short: OFC 2026
-    conference: "Optical Fiber Communication Conference (OFC) 2026"
-    pdf: https://frank.csail.mit.edu
-    image: ./assets/img/radical.jpg
-
   - title: "Checkmate: Zero Performance Overhead Model Checkpointing via Network Gradient Replication"
     authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Adam Belay, Manya Ghobadi <small>(*: equal contribution)</small>"
     conference_short: NSDI 2026
     conference: "Proceedings of the 23rd USENIX Symposium on Networked Systems Design and Implementation (NSDI), Renton, WA, May 2026"
     pdf: https://frank.csail.mit.edu/assets/files/checkmate_nsdi.pdf
     image: ./assets/img/checkmate.jpg
-    
+
   - title: "KramaBench: A Benchmark for AI Systems on Data-to-Insight Pipelines over Data Lakes"
-    authors: "Eugenie Lai*, Gerardo Vitagliano*, Ziyu Zhang*, Sivaprasad Sudhir, Om Chabra, Anna Zeng, Anton A Zabreyko, Chenning Li, Ferdi Kossmann, Jialin Ding, Jun Chen, Markos Markakis, Matthew Russo, <strong>Weiyang Wang</strong>, Ziniu Wu, Michael J Cafarella, Lei Cao, Samuel Madden, Tim Kraska <small>(*: equal contribution)</small>"
-    conference_short: In submission
-    conference: "In submission"
+    authors: "Eugenie Lai*, Gerardo Vitagliano*, Ziyu Zhang*, Om Chabra, Sivaprasad Sudhir,  Anna Zeng, Anton A Zabreyko, Chenning Li, Ferdi Kossmann, Jialin Ding, Jun Chen, Markos Markakis, Matthew Russo, <strong>Weiyang Wang</strong>, Ziniu Wu, Michael J Cafarella, Lei Cao, Samuel Madden, Tim Kraska <small>(*: equal contribution)</small>"
+    conference_short: ICLR 2026
+    conference: "Proceedings of the International Conference on Learning Representations (ICLR) 2026, Rio de Janeiro, Brazil, April 2026"
     pdf: https://arxiv.org/pdf/2506.06541
     image: ./assets/img/kramabench.jpg
+  
+  - title: "Reconfiguration-Aware Direct-Connect AI Cluster using Spatial-and-Wavelength-Selective Switching"
+    authors: "Brett George, <strong>Weiyang Wang</strong>, Zhenguo Wu, Yuyang Wang, Xiang Meng, Manya Ghobadi, Keren Bergman"
+    conference_short: OFC 2026
+    conference: "Optical Fiber Communication Conference (OFC) 2026, Los Angeles, CA, March 2026"
+    pdf: https://frank.csail.mit.edu
+    image: ./assets/img/radical.jpg
 
   - title: Spine-Free Networks for LLM Training
     authors: <strong>Weiyang Wang</strong>, Manya Ghobadi
