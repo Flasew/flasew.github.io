@@ -1,4 +1,11 @@
 main:
+  - title: "MonkeyTree: Near-Minimal Congestion for Multi-tenant Training via Migration"
+    authors: "Anton A. Zabreyko, <strong>Weiyang Wang</strong>, Manya Ghobadi"
+    conference_short: SIGCOMM 2026
+    conference: "Proceedings of the ACM SIGCOMM 2026, Denver, Colorado, USA, August 2026"
+    pdf: https://arxiv.org/pdf/2602.08296
+    image: ./assets/img/mtree.jpg
+
   - title: "Checkmate: Zero Performance Overhead Model Checkpointing via Network Gradient Replication"
     authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Adam Belay, Manya Ghobadi <small>(*: equal contribution)</small>"
     conference_short: NSDI 2026
@@ -17,7 +24,7 @@ main:
     authors: "Brett George, <strong>Weiyang Wang</strong>, Zhenguo Wu, Yuyang Wang, Xiang Meng, Manya Ghobadi, Keren Bergman"
     conference_short: OFC 2026
     conference: "Optical Fiber Communication Conference (OFC) 2026, Los Angeles, CA, March 2026"
-    pdf: https://frank.csail.mit.edu
+    pdf: https://opg.optica.org/view_article.cfm?pdfKey=26616cde-2385-460c-a7c9d0f4f1362cd7_591801
     image: ./assets/img/radical.jpg
 
   - title: Spine-Free Networks for LLM Training
