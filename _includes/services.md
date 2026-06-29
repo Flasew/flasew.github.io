@@ -40,6 +40,7 @@
 ## Professional Services
 
 - Program Committee, IEEE Symposium on High-Performance Interconnects (HotI) - 2026
+- Program Committee, Workshop on Hot Topics in Optical Technologies and Applications in Networking (HotOptics) - 2026
 - Program Committee, ACM Symposium on Cloud Computing (SoCC) - 2026
 - Program Committee, ACM Asia-Pacific Workshop on Networking (APNet) — 2026
 - Reviewer, IEEE Network Magazine - 2025
