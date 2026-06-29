@@ -6,6 +6,13 @@ main:
     pdf: https://arxiv.org/pdf/2602.08296
     image: ./assets/img/mtree.jpg
 
+  - title: "PeeR: First-Class Scheduling for Latency Critical eBPF Applications"
+    authors: "Jeremy Carin, Ben Holmes, <strong>Weiyang Wang</strong>, Ankit Bhardwaj, Manya Ghobadi"
+    conference_short: OSDI 2026
+    conference: "Proceedings of the 20th USENIX Symposium on Operating Systems Design and Implementation (OSDI '26), Seattle, Washington, USA, July 2026"
+    pdf: https://www.usenix.org/conference/osdi26/presentation/carin
+    image: ./assets/img/peer.jpg
+
   - title: "Checkmate: Zero Performance Overhead Model Checkpointing via Network Gradient Replication"
     authors: "Ankit Bhardwaj*, <strong>Weiyang Wang*</strong>, Jeremy Carin, Adam Belay, Manya Ghobadi <small>(*: equal contribution)</small>"
     conference_short: NSDI 2026
