@@ -1,4 +1,17 @@
 ---
 ---
 
-@import "minimal-light";
+@use "minimal-light";
+
+@use "recruiting";
+
+@media (prefers-color-scheme: dark) {
+  .recruiting-callout {
+    background: #25232e;
+    border-color: #3b3449;
+    border-left-color: #9675b8;
+  }
+  .recruiting-callout h2,
+  .recruiting-callout .recruiting-link { color: #d1b3ef; }
+  .recruiting-callout .recruiting-link:hover { color: #ead9fa; }
+}

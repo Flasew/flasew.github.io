@@ -1,0 +1,27 @@
+.recruiting-callout {
+  margin: 1.5rem 0 1.75rem;
+  padding: 1.15rem 1.3rem;
+  border: 1px solid #ddd5eb;
+  border-left: 2px solid #7952a3;
+  border-radius: 4px;
+  background: #faf8fc;
+}
+.recruiting-callout h2 {
+  margin: 0 0 0.65rem;
+  font-size: 1.1rem;
+  color: #563478;
+}
+.recruiting-callout p { margin: 0 0 0.75rem; }
+.recruiting-callout .recruiting-link {
+  display: inline-block;
+  color: #563478;
+  font-weight: 600;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.recruiting-callout .recruiting-link:hover { color: #38204f; }
+.recruiting-callout .recruiting-link:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+  border-radius: 2px;
+}

@@ -58,7 +58,7 @@
         <br>
         {% endif %}
         {% if site.email %}
-        <email>{{ site.email }}</email>
+        <email>{{ site.email | join: "<br>" }}</email>
         {% endif %}
 
         <br>

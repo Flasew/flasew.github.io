@@ -1,0 +1,25 @@
+#!/usr/bin/env bash
+set -euo pipefail
+cd "$(dirname "$0")/.."
+
+# macOS's system Ruby is too old for this bundle.
+if [[ "$(uname -s)" == "Darwin" ]]; then
+  for ruby_bin in /opt/homebrew/opt/ruby/bin /usr/local/opt/ruby/bin; do
+    if [[ -x "$ruby_bin/ruby" ]]; then
+      export PATH="$ruby_bin:$PATH"
+      break
+    fi
+  done
+  # Use the standalone compiler without changing xcode-select globally.
+  if [[ -z "${DEVELOPER_DIR:-}" && -d /Library/Developer/CommandLineTools ]]; then
+    export DEVELOPER_DIR=/Library/Developer/CommandLineTools
+  fi
+fi
+
+bundle config set --local path vendor/bundle
+bundle check || bundle install
+if [[ "${1:-}" == "--build" ]]; then
+  shift
+  exec bundle exec jekyll build "$@"
+fi
+exec bundle exec jekyll serve --host 127.0.0.1 --port "${PORT:-4000}" --livereload "$@"

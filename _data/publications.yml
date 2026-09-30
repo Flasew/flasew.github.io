@@ -22,6 +22,7 @@ main:
 
   - title: "KramaBench: A Benchmark for AI Systems on Data-to-Insight Pipelines over Data Lakes"
     authors: "Eugenie Lai*, Gerardo Vitagliano*, Ziyu Zhang*, Om Chabra, Sivaprasad Sudhir,  Anna Zeng, Anton A Zabreyko, Chenning Li, Ferdi Kossmann, Jialin Ding, Jun Chen, Markos Markakis, Matthew Russo, <strong>Weiyang Wang</strong>, Ziniu Wu, Michael J Cafarella, Lei Cao, Samuel Madden, Tim Kraska <small>(*: equal contribution)</small>"
+    authors_short: "Eugenie Lai*, Gerardo Vitagliano*, Ziyu Zhang*, …, <strong>Weiyang Wang</strong>, …, Tim Kraska <small>(*: equal contribution)</small>"
     conference_short: ICLR 2026
     conference: "Proceedings of the International Conference on Learning Representations (ICLR) 2026, Rio de Janeiro, Brazil, April 2026"
     pdf: https://arxiv.org/pdf/2506.06541
@@ -57,6 +58,7 @@ main:
 
   - title: "TopoOpt: Co-optimizing Network Topology and Parallelization Strategy for Distributed Training Jobs"
     authors: <strong>Weiyang Wang</strong>, Moein Khazraee, Zhizhen Zhong, Zhihao Jia, Dheevatsa Mudigere, Ying Zhang, Anthony Kewitsch, Manya Ghobadi
+    authors_short: "<strong>Weiyang Wang</strong>, Moein Khazraee, …, Manya Ghobadi"
     conference_short: NSDI 2023
     conference: "Proceedings of the 20th USENIX Symposium on Networked Systems Design and Implementation (NSDI), Boston, MA, April 2023"
     pdf: https://www.usenix.org/system/files/nsdi23-wang-weiyang.pdf

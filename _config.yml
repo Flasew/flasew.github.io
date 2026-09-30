@@ -1,8 +1,11 @@
 # Basic Information 
 title: Weiyang "Frank" Wang
 position: Incoming Assistant Professor
-affiliation: NYU CS · Starting 2027
-email: weiyangw (at) mit.edu
+affiliation: NYU CS (Starting Sept 2027)
+affiliation_link: https://cs.nyu.edu/
+email: 
+  - weiyangw (at) mit.edu
+  - ww3086 (at) nyu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -54,3 +57,5 @@ exclude:
   - LICENSE
   - minimal-light.gemspec
   - html_source_file/
+  - vendor/
+  - scripts/

@@ -2,11 +2,11 @@
 
 - **Efficient Direct-Connect Topologies for Collective Communications**  
 	Liangyu Zhao, Siddharth Pal, Tapan Chugh, Weiyang Wang, Jason Fantl, Prithwish Basu, Joud Khoury, Arvind Krishnamurthy  
-	_Poster Session at the 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), Philadelphia, PA_, April 2024
+	_Poster Session at the 22nd USENIX Symposium on Networked Systems Design and Implementation (NSDI), Philadelphia, PA_, April 2025
 
 - **Zero Buffer Optical Packet Switching Data Center Network**  
 	Shawn Shuoshuo Chen, Weiyang Wang, Manya Ghobadi, Srinivasan Seshan, Peter Steenkiste  
-	_Poster Session at the 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), Santa Clara, CA_, April 2025
+	_Poster Session at the 21st USENIX Symposium on Networked Systems Design and Implementation (NSDI), Santa Clara, CA_, April 2024
 
 
 ## Patent
@@ -16,7 +16,7 @@
 	_US Patent Application Number 18561985_
 
 
-## Teaching Experiences
+## Teaching Experience
 
 - 6.5820 Computer Networks, Fall 2024 — **Guest Lecturer**, MIT EECS Department  
 	_Delivered a full lecture on distributed machine learning_
@@ -37,8 +37,10 @@
 - UCSD Provost Honors — 2016 to 2020
 
 
-## Professional Services
+## Professional Service
 
+- Artifact Evaluation Committee Chair, USENIX Symposium on Networked Systems Design and Implementation (NSDI) — 2027
+- Program Committee, ACM Workshop on Hot Topics in Networks (HotNets) — 2026
 - Program Committee, IEEE Symposium on High-Performance Interconnects (HotI) - 2026
 - Program Committee, Workshop on Hot Topics in Optical Technologies and Applications in Networking (HotOptics) - 2026
 - Program Committee, ACM Symposium on Cloud Computing (SoCC) - 2026
@@ -52,7 +54,7 @@
 - External Reviewer, IEEE Global Communications Conference (GLOBECOM) — 2025
 
 
-## Other Services
+## Other Service
 
 - Member, MIT EECS REFS<br>
     _Served as peer mediator supporting the graduate community and acting as a first point of contact for stress-related issues_

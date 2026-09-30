@@ -17,7 +17,14 @@
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
+      {% if link.authors_short %}
+      <details class="author author-list">
+        <summary>{{ link.authors_short }}</summary>
+        <div>{{ link.authors }}</div>
+      </details>
+      {% else %}
       <div class="author">{{ link.authors }}</div>
+      {% endif %}
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">
