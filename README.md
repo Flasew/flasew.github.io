@@ -23,3 +23,9 @@ To build without starting a server:
 ```
 
 The generated site is in `_site/`. These commands do not commit or push.
+
+## GitHub Pages compatibility
+
+Keep Sass entry points on `@import`: the GitHub Pages Sass compiler does not
+process `@use`. Local Dart Sass may emit import deprecation warnings; these
+are expected while using the built-in GitHub Pages deployment.

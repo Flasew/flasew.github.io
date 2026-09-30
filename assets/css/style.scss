@@ -1,9 +1,9 @@
 ---
 ---
 
-@use "minimal-light";
+@import "minimal-light";
 
-@use "recruiting";
+@import "recruiting";
 
 @media (prefers-color-scheme: dark) {
   .recruiting-callout {
